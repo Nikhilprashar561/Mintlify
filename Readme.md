@@ -4,7 +4,7 @@ This is a **static website clone** of the **Mintlify homepage**, created using o
 
 ## 🔗 Live Demo
 You can check the live project here:  
-👉 **[Live Website Link]** (https://google.com)
+👉 **[Live Website Link]** (https://mintlifyclonee.netlify.app)
 
 ## 📌 Project Overview
 This project is a clone of the Mintlify homepage built for learning and practice purposes.
