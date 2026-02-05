@@ -17,7 +17,8 @@ The website was built **step by step**:-
 3. **Main Content Sections**
 4. **Footer**
 
-```Below are my projects images screenshot 👇
+```
+Below are my projects images screenshot 👇
 ```
 
 ![Project Logo](https://res.cloudinary.com/da9c3vejh/image/upload/v1770276401/Screenshot_2026-02-04_235011_rhswuv.png)
